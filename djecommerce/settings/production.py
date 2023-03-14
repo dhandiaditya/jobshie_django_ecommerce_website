@@ -20,5 +20,4 @@ DATABASES = {
         'PORT': ''
     }
 }
-
-
+ROOT_URLCONF = 'djecommerce.urls'
