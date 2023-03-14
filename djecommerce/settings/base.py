@@ -34,7 +34,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'jobshie_django_ecommerce_website.djecommerce.urls'
+ROOT_URLCONF = 'djecommerce.urls'
 
 TEMPLATES = [
     {
